@@ -22,6 +22,7 @@ Windows 11 & Windows 10
 -------------------------
 -**Integrated Development Environments (IDE): IntelliJ IDEA 2023.3.2
 -**Programming Language:** - Java 8SE, 11, 20
+-* Use selenium , cucumber, testng
 -*You can bring the project to its current settings using the maven folder
 MAVEN*
 --------------------------------
